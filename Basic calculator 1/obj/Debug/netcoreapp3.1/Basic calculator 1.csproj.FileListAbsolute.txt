@@ -1,0 +1,13 @@
+C:\Users\lohit\source\repos\Basic calculator 1\Basic calculator 1\obj\Debug\netcoreapp3.1\Basic calculator 1.csprojAssemblyReference.cache
+C:\Users\lohit\source\repos\Basic calculator 1\Basic calculator 1\obj\Debug\netcoreapp3.1\Basic calculator 1.csproj.CoreCompileInputs.cache
+C:\Users\lohit\source\repos\Basic calculator 1\Basic calculator 1\obj\Debug\netcoreapp3.1\Basic calculator 1.AssemblyInfoInputs.cache
+C:\Users\lohit\source\repos\Basic calculator 1\Basic calculator 1\obj\Debug\netcoreapp3.1\Basic calculator 1.AssemblyInfo.cs
+C:\Users\lohit\source\repos\Basic calculator 1\Basic calculator 1\bin\Debug\netcoreapp3.1\Basic calculator 1.exe
+C:\Users\lohit\source\repos\Basic calculator 1\Basic calculator 1\bin\Debug\netcoreapp3.1\Basic calculator 1.deps.json
+C:\Users\lohit\source\repos\Basic calculator 1\Basic calculator 1\bin\Debug\netcoreapp3.1\Basic calculator 1.runtimeconfig.json
+C:\Users\lohit\source\repos\Basic calculator 1\Basic calculator 1\bin\Debug\netcoreapp3.1\Basic calculator 1.runtimeconfig.dev.json
+C:\Users\lohit\source\repos\Basic calculator 1\Basic calculator 1\bin\Debug\netcoreapp3.1\Basic calculator 1.dll
+C:\Users\lohit\source\repos\Basic calculator 1\Basic calculator 1\bin\Debug\netcoreapp3.1\Basic calculator 1.pdb
+C:\Users\lohit\source\repos\Basic calculator 1\Basic calculator 1\obj\Debug\netcoreapp3.1\Basic calculator 1.dll
+C:\Users\lohit\source\repos\Basic calculator 1\Basic calculator 1\obj\Debug\netcoreapp3.1\Basic calculator 1.pdb
+C:\Users\lohit\source\repos\Basic calculator 1\Basic calculator 1\obj\Debug\netcoreapp3.1\Basic calculator 1.genruntimeconfig.cache
